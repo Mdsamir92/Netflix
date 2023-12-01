@@ -270,7 +270,12 @@ footer .questions {
 
 
 @media screen and (max-width: 768px) {
-
+    .download-section{
+        margin-top: 30px;
+       margin-right: 30px;
+       font-size: 15px;
+      
+    }
     .footer {
         display: grid;
         grid-template-columns: 1fr 1fr;
