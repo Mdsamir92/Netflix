@@ -182,7 +182,12 @@ nav button {
     right: 0;
     width: 500px;
 }
-
+.download-section{
+    margin-top: 30px;
+    position: relative;
+    left: 30%;
+    padding: 15px;
+}
 section.first>div {
     display: flex;
     flex-direction: column;
